@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nova 👋
 
-<!--
-**annnova2007/annnova2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year B.Tech Computer Science & Engineering (Artificial Intelligence) student passionate about technology, AI, and software development.
 
-Here are some ideas to get you started:
+🌱 Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Strengthening my programming and problem-solving skills
+* Exploring AI and machine learning concepts
+* Building projects and contributing to technical communities
+
+💻 Tools & Technologies:
+
+* Python
+* C
+* HTML, CSS
+* Git & GitHub
+* Figma
+* Canva
+
+🎯 Interests:
+Artificial Intelligence, Software Development, Web Technologies, Open Source, and Tech Leadership.
+
+📫 Reach me:
+
+* Email: annnova2007@gmail.com
+* LinkedIn: Link in bio
+* GitHub: You're already here 😄
+
