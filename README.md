@@ -15,6 +15,7 @@ I'm a second-year B.Tech Computer Science & Engineering (Artificial Intelligence
 * GitHub
 * Figma
 * Canva
+* R programming
 
 # Interests:
 Artificial Intelligence, Software Development, Web Technologies, Open Source, and Tech Leadership.
